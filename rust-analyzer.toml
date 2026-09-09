@@ -1,0 +1,5 @@
+[cargo]
+allTargets = false
+
+[check]
+allTargets = false
